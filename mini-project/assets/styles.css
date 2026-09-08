@@ -1,0 +1,132 @@
+
+
+section[data-testid="stSidebar"]{
+    background:#F3F6FB;
+    border-right:2px solid #D6E4F0;
+}
+
+
+.main{
+    background:#F8FAFC;
+}
+
+
+
+div[data-testid="metric-container"]{
+    background:#FFFFFF;
+    border:1px solid #E2E8F0;
+    border-radius:14px;
+    padding:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.06);
+    transition:0.3s;
+}
+
+div[data-testid="metric-container"]:hover{
+    transform:translateY(-3px);
+    box-shadow:0 8px 18px rgba(37,99,235,0.15);
+}
+
+
+
+.stDataFrame{
+    background:white;
+    border:1px solid #E5E7EB;
+    border-radius:12px;
+    overflow:hidden;
+}
+
+
+
+.js-plotly-plot{
+    background:white;
+    border-radius:12px;
+    border:1px solid #E5E7EB;
+    padding:8px;
+}
+
+
+
+.stButton>button{
+    background:#2563EB;
+    color:white;
+    border:none;
+    border-radius:10px;
+    padding:10px 18px;
+    font-weight:600;
+}
+
+.stButton>button:hover{
+    background:#1D4ED8;
+}
+
+
+
+.stDownloadButton>button{
+    background:#10B981;
+    color:white;
+    border:none;
+    border-radius:10px;
+    font-weight:600;
+}
+
+.stDownloadButton>button:hover{
+    background:#059669;
+}
+
+
+
+.stSelectbox div[data-baseweb="select"]{
+    background:white;
+    border-radius:10px;
+    border:1px solid #CBD5E1;
+}
+
+
+
+.stDateInput{
+    background:white;
+    border-radius:10px;
+}
+
+
+
+.stSuccess{
+    border-radius:12px;
+}
+
+
+
+.stAlert{
+    border-radius:12px;
+}
+
+
+
+hr{
+    border-color:#E5E7EB;
+}
+
+
+
+h1{
+    color:#1E293B;
+    font-weight:700;
+}
+
+h2{
+    color:#334155;
+}
+
+h3{
+    color:#475569;
+}
+
+
+
+section[data-testid="stSidebar"] .stSelectbox{
+    margin-bottom:15px;
+}
+
+section[data-testid="stSidebar"] h2{
+    color:#1E3A8A;
+}

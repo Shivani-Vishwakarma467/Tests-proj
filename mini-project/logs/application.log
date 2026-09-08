@@ -1,0 +1,547 @@
+13-07-2026 12:00:12 | INFO | Application Started
+13-07-2026 12:00:20 | INFO | Application Started
+13-07-2026 12:00:20 | INFO | Dashboard Opened
+13-07-2026 12:00:21 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:00:21 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 12:00:31 | INFO | Application Started
+13-07-2026 12:00:31 | INFO | Dashboard Opened
+13-07-2026 12:00:31 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:07:55 | INFO | Application Started
+13-07-2026 12:08:04 | INFO | Application Started
+13-07-2026 12:08:05 | INFO | Dashboard Opened
+13-07-2026 12:08:05 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:08:05 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 12:08:16 | INFO | Application Started
+13-07-2026 12:08:16 | INFO | Dashboard Opened
+13-07-2026 12:08:16 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:08:19 | INFO | Application Started
+13-07-2026 12:08:19 | INFO | Dashboard Opened
+13-07-2026 12:08:20 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:08:20 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 12:08:28 | INFO | Application Started
+13-07-2026 12:08:28 | INFO | Dashboard Opened
+13-07-2026 12:08:28 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:08:37 | INFO | Application Started
+13-07-2026 12:08:37 | INFO | Dashboard Opened
+13-07-2026 12:08:37 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:08:37 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 12:08:46 | INFO | Application Started
+13-07-2026 12:08:46 | INFO | Dashboard Opened
+13-07-2026 12:08:46 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 12:08:46 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 12:08:57 | INFO | Application Started
+13-07-2026 12:26:08 | INFO | Application Started
+13-07-2026 12:26:16 | INFO | Application Started
+13-07-2026 12:46:13 | INFO | Application Started
+13-07-2026 12:46:18 | INFO | Application Started
+13-07-2026 13:19:42 | INFO | Application Started
+13-07-2026 13:19:52 | INFO | Application Started
+13-07-2026 13:19:53 | INFO | Executive Reports page opened.
+13-07-2026 13:19:53 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+13-07-2026 13:19:53 | INFO | Generated 3 Executive Recommendations
+13-07-2026 13:19:54 | INFO | Category Performance Report Generated
+13-07-2026 13:19:54 | INFO | Region Performance Report Generated
+13-07-2026 13:19:54 | INFO | Segment Performance Report Generated
+13-07-2026 13:19:54 | INFO | Top 10 Products Report Generated
+13-07-2026 13:19:54 | INFO | Executive Business Story Generated
+13-07-2026 15:17:30 | INFO | Application Started
+13-07-2026 15:17:35 | INFO | Application Started
+13-07-2026 15:17:36 | INFO | Dashboard Opened
+13-07-2026 15:17:36 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:17:37 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:17:48 | INFO | Application Started
+13-07-2026 15:17:48 | INFO | Dashboard Opened
+13-07-2026 15:17:49 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:17:56 | INFO | Application Started
+13-07-2026 15:17:56 | INFO | Dashboard Opened
+13-07-2026 15:17:56 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:17:56 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:18:05 | INFO | Application Started
+13-07-2026 15:18:06 | INFO | Executive Reports page opened.
+13-07-2026 15:18:06 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+13-07-2026 15:18:06 | INFO | Generated 3 Executive Recommendations
+13-07-2026 15:18:06 | INFO | Category Performance Report Generated
+13-07-2026 15:18:06 | INFO | Region Performance Report Generated
+13-07-2026 15:18:06 | INFO | Segment Performance Report Generated
+13-07-2026 15:18:06 | INFO | Top 10 Products Report Generated
+13-07-2026 15:18:06 | INFO | Executive Business Story Generated
+13-07-2026 15:26:41 | INFO | Application Started
+13-07-2026 15:26:46 | INFO | Application Started
+13-07-2026 15:26:46 | INFO | Executive Reports page opened.
+13-07-2026 15:26:46 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+13-07-2026 15:26:46 | INFO | Generated 3 Executive Recommendations
+13-07-2026 15:26:46 | INFO | Category Performance Report Generated
+13-07-2026 15:26:46 | INFO | Region Performance Report Generated
+13-07-2026 15:26:46 | INFO | Segment Performance Report Generated
+13-07-2026 15:26:46 | INFO | Top 10 Products Report Generated
+13-07-2026 15:26:46 | INFO | Executive Business Story Generated
+13-07-2026 15:27:13 | INFO | Application Started
+13-07-2026 15:27:28 | INFO | Application Started
+13-07-2026 15:27:28 | INFO | Dashboard Opened
+13-07-2026 15:27:28 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:27:28 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:42:42 | INFO | Application Started
+13-07-2026 15:42:44 | INFO | Executive Reports page opened.
+13-07-2026 15:42:44 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+13-07-2026 15:42:45 | INFO | Generated 3 Executive Recommendations
+13-07-2026 15:42:45 | INFO | Category Performance Report Generated
+13-07-2026 15:42:45 | INFO | Region Performance Report Generated
+13-07-2026 15:42:46 | INFO | Segment Performance Report Generated
+13-07-2026 15:42:46 | INFO | Top 10 Products Report Generated
+13-07-2026 15:42:46 | INFO | Executive Business Story Generated
+13-07-2026 15:46:07 | INFO | Application Started
+13-07-2026 15:46:08 | INFO | Dashboard Opened
+13-07-2026 15:46:10 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:46:11 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:46:28 | INFO | Application Started
+13-07-2026 15:46:28 | INFO | Dashboard Opened
+13-07-2026 15:46:29 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:46:35 | INFO | Application Started
+13-07-2026 15:46:35 | INFO | Dashboard Opened
+13-07-2026 15:46:36 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:46:37 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:46:47 | INFO | Application Started
+13-07-2026 15:46:48 | INFO | Dashboard Opened
+13-07-2026 15:46:50 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:46:51 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:48:33 | INFO | Application Started
+13-07-2026 15:48:33 | INFO | Dashboard Opened
+13-07-2026 15:48:35 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:48:35 | INFO | Application Started
+13-07-2026 15:48:35 | INFO | Dashboard Opened
+13-07-2026 15:48:36 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:48:36 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:48:41 | INFO | Application Started
+13-07-2026 15:48:41 | INFO | Dashboard Opened
+13-07-2026 15:48:42 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:48:43 | INFO | Application Started
+13-07-2026 15:48:43 | INFO | Dashboard Opened
+13-07-2026 15:48:45 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:48:46 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:50:45 | INFO | Application Started
+13-07-2026 15:50:45 | INFO | Dashboard Opened
+13-07-2026 15:50:46 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:50:54 | INFO | Application Started
+13-07-2026 15:50:54 | INFO | Dashboard Opened
+13-07-2026 15:50:55 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:50:55 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:51:38 | INFO | Application Started
+13-07-2026 15:51:38 | INFO | Dashboard Opened
+13-07-2026 15:51:39 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:51:39 | INFO | Application Started
+13-07-2026 15:51:40 | INFO | Dashboard Opened
+13-07-2026 15:51:41 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:51:41 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:51:42 | INFO | Application Started
+13-07-2026 15:51:42 | INFO | Dashboard Opened
+13-07-2026 15:51:43 | INFO | Application Started
+13-07-2026 15:51:43 | INFO | Dashboard Opened
+13-07-2026 15:51:44 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:51:45 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:51:45 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:51:45 | INFO | Application Started
+13-07-2026 15:51:45 | INFO | Dashboard Opened
+13-07-2026 15:51:46 | INFO | Application Started
+13-07-2026 15:51:46 | INFO | Dashboard Opened
+13-07-2026 15:51:46 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:51:48 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:51:48 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:52:15 | INFO | Application Started
+13-07-2026 15:52:15 | INFO | Dashboard Opened
+13-07-2026 15:52:17 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:52:18 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:52:58 | INFO | Application Started
+13-07-2026 15:52:58 | INFO | Dashboard Opened
+13-07-2026 15:52:58 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:52:59 | INFO | Filters | Region:[] | Category:['Furniture'] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:52:59 | INFO | Application Started
+13-07-2026 15:52:59 | INFO | Dashboard Opened
+13-07-2026 15:53:00 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:53:00 | INFO | Filters | Region:[] | Category:['Furniture', 'Technology'] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:53:01 | INFO | Application Started
+13-07-2026 15:53:01 | INFO | Dashboard Opened
+13-07-2026 15:53:02 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:53:02 | INFO | Filters | Region:[] | Category:['Furniture', 'Technology', 'Office Supplies'] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:53:07 | INFO | Application Started
+13-07-2026 15:53:07 | INFO | Dashboard Opened
+13-07-2026 15:53:07 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:53:08 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:53:18 | INFO | Application Started
+13-07-2026 15:53:18 | INFO | Dashboard Opened
+13-07-2026 15:53:18 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:53:23 | INFO | Application Started
+13-07-2026 15:53:35 | INFO | Application Started
+13-07-2026 15:53:35 | INFO | Dashboard Opened
+13-07-2026 15:53:35 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:53:36 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+13-07-2026 15:55:12 | INFO | Application Started
+13-07-2026 15:55:12 | INFO | Executive Reports page opened.
+13-07-2026 15:55:12 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+13-07-2026 15:55:12 | INFO | Generated 3 Executive Recommendations
+13-07-2026 15:55:12 | INFO | Category Performance Report Generated
+13-07-2026 15:55:12 | INFO | Region Performance Report Generated
+13-07-2026 15:55:12 | INFO | Segment Performance Report Generated
+13-07-2026 15:55:12 | INFO | Top 10 Products Report Generated
+13-07-2026 15:55:12 | INFO | Executive Business Story Generated
+13-07-2026 15:55:41 | INFO | Application Started
+13-07-2026 15:55:41 | INFO | Dashboard Opened
+13-07-2026 15:55:41 | INFO | Dataset Loaded | Rows: 9993
+13-07-2026 15:55:41 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+14-07-2026 12:49:08 | INFO | Application Started
+14-07-2026 12:49:33 | INFO | Application Started
+14-07-2026 12:50:18 | INFO | Application Started
+14-07-2026 12:50:19 | INFO | Dataset Uploaded: cafe_sales.csv
+14-07-2026 12:50:19 | WARNING | Dataset Validation Failed | Missing Columns: ['Order ID', 'Order Date', 'Ship Date', 'Category', 'Sub-Category', 'Region', 'State', 'City', 'Customer Name', 'Segment', 'Sales', 'Profit', 'Discount']
+15-07-2026 10:10:02 | INFO | Application Started
+15-07-2026 10:17:50 | INFO | Application Started
+15-07-2026 10:18:54 | INFO | Application Started
+15-07-2026 10:19:13 | INFO | Application Started
+15-07-2026 10:19:17 | INFO | Dataset Uploaded: Retail_Test_Dataset.xlsx
+15-07-2026 10:19:17 | INFO | ETL Completed | Before:300 | After:300
+15-07-2026 10:19:18 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:19:31 | INFO | Application Started
+15-07-2026 10:19:32 | INFO | Dashboard Opened
+15-07-2026 10:20:32 | INFO | Application Started
+15-07-2026 10:20:33 | INFO | Dataset Uploaded: Retail_Test_Dataset.xlsx
+15-07-2026 10:20:33 | INFO | ETL Completed | Before:300 | After:300
+15-07-2026 10:20:33 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:20:51 | INFO | Application Started
+15-07-2026 10:20:52 | INFO | Dataset Uploaded: superstore.csv
+15-07-2026 10:20:53 | INFO | ETL Completed | Before:9995 | After:9993
+15-07-2026 10:20:54 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:20:59 | INFO | Application Started
+15-07-2026 10:20:59 | INFO | Dashboard Opened
+15-07-2026 10:20:59 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:31:29 | INFO | Application Started
+15-07-2026 10:31:46 | INFO | Application Started
+15-07-2026 10:31:47 | INFO | Dataset Uploaded: Retail_Test_Dataset.xlsx
+15-07-2026 10:31:48 | INFO | ETL Completed | Before:300 | After:300
+15-07-2026 10:31:48 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:32:25 | INFO | Application Started
+15-07-2026 10:32:25 | INFO | Dashboard Opened
+15-07-2026 10:38:58 | INFO | Application Started
+15-07-2026 10:38:58 | INFO | Dataset Uploaded: Retail_Test_Dataset.xlsx
+15-07-2026 10:38:59 | INFO | ETL Completed | Before:300 | After:300
+15-07-2026 10:38:59 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:39:14 | INFO | Application Started
+15-07-2026 10:39:15 | INFO | Dataset Uploaded: New_Superstore_21_Columns.xlsx
+15-07-2026 10:39:15 | INFO | ETL Completed | Before:500 | After:500
+15-07-2026 10:39:15 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:39:29 | INFO | Application Started
+15-07-2026 10:39:29 | INFO | Dashboard Opened
+15-07-2026 10:39:29 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:41:19 | INFO | Application Started
+15-07-2026 10:41:29 | INFO | Application Started
+15-07-2026 10:41:29 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 10:41:30 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 10:41:30 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:41:51 | INFO | Application Started
+15-07-2026 10:41:51 | INFO | Dashboard Opened
+15-07-2026 10:41:51 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:42:15 | INFO | Application Started
+15-07-2026 10:42:15 | INFO | Dashboard Opened
+15-07-2026 10:42:15 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:42:36 | INFO | Application Started
+15-07-2026 10:42:45 | INFO | Application Started
+15-07-2026 10:42:45 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 10:42:45 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 10:42:45 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:43:21 | INFO | Application Started
+15-07-2026 10:43:21 | INFO | Dashboard Opened
+15-07-2026 10:43:21 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:43:51 | INFO | Application Started
+15-07-2026 10:43:51 | INFO | Dashboard Opened
+15-07-2026 10:44:01 | INFO | Application Started
+15-07-2026 10:44:01 | INFO | Dashboard Opened
+15-07-2026 10:44:01 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:45:27 | INFO | Application Started
+15-07-2026 10:45:37 | INFO | Application Started
+15-07-2026 10:45:37 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 10:45:37 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 10:45:37 | INFO | SQLite Database Updated Successfully
+15-07-2026 10:45:51 | INFO | Application Started
+15-07-2026 10:45:55 | INFO | Application Started
+15-07-2026 10:45:55 | INFO | Dashboard Opened
+15-07-2026 10:45:55 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 10:57:04 | INFO | Application Started
+15-07-2026 10:57:04 | INFO | Dashboard Opened
+15-07-2026 10:57:05 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:00:10 | INFO | Application Started
+15-07-2026 11:00:19 | INFO | Application Started
+15-07-2026 11:00:19 | INFO | Dashboard Opened
+15-07-2026 11:00:19 | INFO | Dataset Loaded | Rows: 96
+15-07-2026 11:00:19 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:00:41 | INFO | Application Started
+15-07-2026 11:00:52 | INFO | Application Started
+15-07-2026 11:00:53 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 11:00:54 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 11:00:54 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:01:01 | INFO | Application Started
+15-07-2026 11:01:01 | INFO | Dashboard Opened
+15-07-2026 11:01:01 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:07:54 | INFO | Application Started
+15-07-2026 11:08:03 | INFO | Application Started
+15-07-2026 11:08:04 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 11:08:04 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 11:08:04 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:17:42 | INFO | Application Started
+15-07-2026 11:17:52 | INFO | Application Started
+15-07-2026 11:17:52 | INFO | Dashboard Opened
+15-07-2026 11:17:52 | INFO | Dataset Loaded | Rows: 96
+15-07-2026 11:17:53 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:18:09 | INFO | Application Started
+15-07-2026 11:18:19 | INFO | Application Started
+15-07-2026 11:18:20 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 11:18:21 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 11:18:21 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:18:25 | INFO | Application Started
+15-07-2026 11:18:25 | INFO | Dashboard Opened
+15-07-2026 11:18:25 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:18:30 | INFO | Application Started
+15-07-2026 11:18:41 | INFO | Application Started
+15-07-2026 11:18:41 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 11:18:41 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 11:18:41 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:18:54 | INFO | Application Started
+15-07-2026 11:18:54 | INFO | Dashboard Opened
+15-07-2026 11:18:54 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:23:57 | INFO | Application Started
+15-07-2026 11:24:05 | INFO | Application Started
+15-07-2026 11:24:05 | INFO | Dashboard Opened
+15-07-2026 11:24:05 | INFO | Dataset Loaded | Rows: 96
+15-07-2026 11:24:06 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:24:24 | INFO | Application Started
+15-07-2026 11:24:24 | INFO | Executive Reports page opened.
+15-07-2026 11:24:24 | INFO | Business Health Score Generated | Score: 70 | Status: \U0001f7e0 Average
+15-07-2026 11:24:24 | INFO | Generated 2 Executive Recommendations
+15-07-2026 11:24:25 | INFO | Category Performance Report Generated
+15-07-2026 11:24:25 | INFO | Region Performance Report Generated
+15-07-2026 11:24:25 | INFO | Segment Performance Report Generated
+15-07-2026 11:24:25 | INFO | Top 10 Products Report Generated
+15-07-2026 11:24:25 | INFO | Executive Business Story Generated
+15-07-2026 11:26:38 | INFO | Application Started
+15-07-2026 11:26:38 | INFO | Dashboard Opened
+15-07-2026 11:26:38 | INFO | Dataset Loaded | Rows: 96
+15-07-2026 11:26:38 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:27:51 | INFO | Application Started
+15-07-2026 11:27:52 | INFO | Application Started
+15-07-2026 11:28:04 | INFO | Application Started
+15-07-2026 11:28:05 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 11:28:05 | INFO | ETL Completed | Before:100 | After:96
+15-07-2026 11:28:05 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:38:23 | INFO | Application Started
+15-07-2026 11:38:23 | INFO | Dashboard Opened
+15-07-2026 11:38:24 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:38:27 | INFO | Application Started
+15-07-2026 11:38:28 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns.xlsx
+15-07-2026 11:38:28 | INFO | ETL Completed | Before:100 | After:86
+15-07-2026 11:38:28 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:40:28 | INFO | Application Started
+15-07-2026 11:40:39 | INFO | Application Started
+15-07-2026 11:40:40 | INFO | Dashboard Opened
+15-07-2026 11:40:40 | INFO | Dataset Loaded | Rows: 86
+15-07-2026 11:40:41 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:40:50 | INFO | Application Started
+15-07-2026 11:40:53 | INFO | Application Started
+15-07-2026 11:41:05 | INFO | Application Started
+15-07-2026 11:41:06 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns_No_Row89.xlsx
+15-07-2026 11:41:06 | INFO | ETL Completed | Before:99 | After:85
+15-07-2026 11:41:06 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:41:14 | INFO | Application Started
+15-07-2026 11:41:14 | INFO | Dashboard Opened
+15-07-2026 11:41:14 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:42:35 | INFO | Application Started
+15-07-2026 11:42:37 | INFO | Application Started
+15-07-2026 11:43:06 | INFO | Application Started
+15-07-2026 11:43:07 | INFO | Dataset Uploaded: superstore.csv
+15-07-2026 11:43:07 | INFO | ETL Completed | Before:9995 | After:9993
+15-07-2026 11:43:07 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:43:55 | INFO | Application Started
+15-07-2026 11:43:55 | INFO | Dashboard Opened
+15-07-2026 11:43:55 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:47:18 | INFO | Application Started
+15-07-2026 11:47:26 | INFO | Application Started
+15-07-2026 11:47:38 | INFO | Application Started
+15-07-2026 11:47:38 | INFO | Dataset Uploaded: superstore.csv
+15-07-2026 11:47:38 | INFO | ETL Completed | Before:9995 | After:9993
+15-07-2026 11:47:39 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:47:51 | INFO | Application Started
+15-07-2026 11:48:02 | INFO | Application Started
+15-07-2026 11:48:03 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns_No_Row89.xlsx
+15-07-2026 11:48:03 | INFO | ETL Completed | Before:99 | After:85
+15-07-2026 11:48:03 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:52:08 | INFO | Application Started
+15-07-2026 11:52:16 | INFO | Application Started
+15-07-2026 11:52:26 | INFO | Application Started
+15-07-2026 11:52:27 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns_No_Row89.xlsx
+15-07-2026 11:52:27 | INFO | ETL Completed | Before:99 | After:85
+15-07-2026 11:52:27 | INFO | SQLite Database Updated Successfully
+15-07-2026 11:53:00 | INFO | Application Started
+15-07-2026 11:53:01 | INFO | Dashboard Opened
+15-07-2026 11:53:01 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:53:19 | INFO | Application Started
+15-07-2026 11:53:19 | INFO | Dashboard Opened
+15-07-2026 11:53:27 | INFO | Application Started
+15-07-2026 11:53:27 | INFO | Dashboard Opened
+15-07-2026 11:53:27 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:53:40 | INFO | Application Started
+15-07-2026 11:53:40 | INFO | Dashboard Opened
+15-07-2026 11:53:45 | INFO | Application Started
+15-07-2026 11:53:45 | INFO | Dashboard Opened
+15-07-2026 11:53:45 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 11:53:56 | INFO | Application Started
+15-07-2026 11:54:04 | INFO | Application Started
+15-07-2026 11:54:05 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns_No_Row89.xlsx
+15-07-2026 11:54:05 | INFO | ETL Completed | Before:99 | After:85
+15-07-2026 11:54:05 | INFO | SQLite Database Updated Successfully
+15-07-2026 13:20:28 | INFO | Application Started
+15-07-2026 13:20:44 | INFO | Application Started
+15-07-2026 13:21:07 | INFO | Application Started
+15-07-2026 13:21:07 | INFO | Executive Reports page opened.
+15-07-2026 13:21:07 | INFO | Business Health Score Generated | Score: 90 | Status: \U0001f7e2 Excellent
+15-07-2026 13:21:07 | INFO | Generated 2 Executive Recommendations
+15-07-2026 13:21:07 | INFO | Category Performance Report Generated
+15-07-2026 13:21:07 | INFO | Region Performance Report Generated
+15-07-2026 13:21:07 | INFO | Segment Performance Report Generated
+15-07-2026 13:21:07 | INFO | Top 10 Products Report Generated
+15-07-2026 13:21:07 | INFO | Executive Business Story Generated
+15-07-2026 13:21:09 | INFO | Application Started
+15-07-2026 13:23:47 | INFO | Application Started
+15-07-2026 13:23:53 | INFO | Application Started
+15-07-2026 13:23:56 | INFO | Application Started
+15-07-2026 13:23:57 | INFO | Dashboard Opened
+15-07-2026 13:23:57 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 13:23:57 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:03:17 | INFO | Application Started
+15-07-2026 15:03:27 | INFO | Application Started
+15-07-2026 15:03:27 | INFO | Dashboard Opened
+15-07-2026 15:03:27 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:03:28 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:03:40 | INFO | Application Started
+15-07-2026 15:03:40 | INFO | Executive Reports page opened.
+15-07-2026 15:03:40 | INFO | Business Health Score Generated | Score: 90 | Status: \U0001f7e2 Excellent
+15-07-2026 15:03:40 | INFO | Generated 2 Executive Recommendations
+15-07-2026 15:03:40 | INFO | Category Performance Report Generated
+15-07-2026 15:03:40 | INFO | Region Performance Report Generated
+15-07-2026 15:03:40 | INFO | Segment Performance Report Generated
+15-07-2026 15:03:40 | INFO | Top 10 Products Report Generated
+15-07-2026 15:03:40 | INFO | Executive Business Story Generated
+15-07-2026 15:03:57 | INFO | Application Started
+15-07-2026 15:03:57 | INFO | Dashboard Opened
+15-07-2026 15:03:57 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:03:57 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:04:22 | INFO | Application Started
+15-07-2026 15:04:22 | INFO | Executive Reports page opened.
+15-07-2026 15:04:22 | INFO | Business Health Score Generated | Score: 90 | Status: \U0001f7e2 Excellent
+15-07-2026 15:04:22 | INFO | Generated 2 Executive Recommendations
+15-07-2026 15:04:22 | INFO | Category Performance Report Generated
+15-07-2026 15:04:22 | INFO | Region Performance Report Generated
+15-07-2026 15:04:22 | INFO | Segment Performance Report Generated
+15-07-2026 15:04:22 | INFO | Top 10 Products Report Generated
+15-07-2026 15:04:22 | INFO | Executive Business Story Generated
+15-07-2026 15:06:56 | INFO | Application Started
+15-07-2026 15:06:56 | INFO | Dashboard Opened
+15-07-2026 15:06:56 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:06:56 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:11:47 | INFO | Application Started
+15-07-2026 15:11:48 | INFO | Executive Reports page opened.
+15-07-2026 15:11:48 | INFO | Business Health Score Generated | Score: 90 | Status: \U0001f7e2 Excellent
+15-07-2026 15:11:48 | INFO | Generated 2 Executive Recommendations
+15-07-2026 15:11:48 | INFO | Category Performance Report Generated
+15-07-2026 15:11:49 | INFO | Region Performance Report Generated
+15-07-2026 15:11:49 | INFO | Segment Performance Report Generated
+15-07-2026 15:11:49 | INFO | Top 10 Products Report Generated
+15-07-2026 15:11:49 | INFO | Executive Business Story Generated
+15-07-2026 15:18:25 | INFO | Application Started
+15-07-2026 15:18:45 | INFO | Application Started
+15-07-2026 15:18:46 | INFO | Dashboard Opened
+15-07-2026 15:18:46 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:18:46 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:18:54 | INFO | Application Started
+15-07-2026 15:18:54 | INFO | Executive Reports page opened.
+15-07-2026 15:18:54 | INFO | Business Health Score Generated | Score: 90 | Status: \U0001f7e2 Excellent
+15-07-2026 15:18:54 | INFO | Generated 2 Executive Recommendations
+15-07-2026 15:18:54 | INFO | Category Performance Report Generated
+15-07-2026 15:18:54 | INFO | Region Performance Report Generated
+15-07-2026 15:18:54 | INFO | Segment Performance Report Generated
+15-07-2026 15:18:54 | INFO | Top 10 Products Report Generated
+15-07-2026 15:18:54 | INFO | Executive Business Story Generated
+15-07-2026 15:18:58 | INFO | Application Started
+15-07-2026 15:18:58 | INFO | Dashboard Opened
+15-07-2026 15:18:58 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:18:58 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:25:00 | INFO | Application Started
+15-07-2026 15:25:00 | INFO | Dashboard Opened
+15-07-2026 15:25:00 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:25:03 | INFO | Application Started
+15-07-2026 15:25:03 | INFO | Dashboard Opened
+15-07-2026 15:25:03 | INFO | Dataset Loaded | Rows: 85
+15-07-2026 15:25:03 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 15:25:17 | INFO | Application Started
+15-07-2026 15:25:18 | INFO | Application Started
+15-07-2026 15:25:33 | INFO | Application Started
+15-07-2026 15:25:35 | INFO | Dataset Uploaded: Corrupt_Superstore_21_Columns_No_Row89.xlsx
+15-07-2026 15:25:35 | INFO | ETL Completed | Before:99 | After:85
+15-07-2026 15:25:35 | INFO | SQLite Database Updated Successfully
+15-07-2026 15:50:21 | INFO | Application Started
+15-07-2026 15:50:26 | INFO | Application Started
+15-07-2026 15:50:26 | INFO | Dashboard Opened
+15-07-2026 15:50:26 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 17:54:57 | INFO | Application Started
+15-07-2026 17:55:10 | INFO | Application Started
+15-07-2026 17:55:24 | INFO | Application Started
+15-07-2026 17:55:24 | INFO | Dataset Uploaded: superstore.csv
+15-07-2026 17:55:25 | INFO | ETL Completed | Before:9995 | After:9993
+15-07-2026 17:55:26 | INFO | SQLite Database Updated Successfully
+15-07-2026 17:55:32 | INFO | Application Started
+15-07-2026 17:55:32 | INFO | Dashboard Opened
+15-07-2026 17:55:33 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 17:55:36 | INFO | Application Started
+15-07-2026 17:55:47 | INFO | Application Started
+15-07-2026 17:55:48 | INFO | Executive Reports page opened.
+15-07-2026 17:55:48 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+15-07-2026 17:55:48 | INFO | Generated 3 Executive Recommendations
+15-07-2026 17:55:48 | INFO | Category Performance Report Generated
+15-07-2026 17:55:48 | INFO | Region Performance Report Generated
+15-07-2026 17:55:48 | INFO | Segment Performance Report Generated
+15-07-2026 17:55:48 | INFO | Top 10 Products Report Generated
+15-07-2026 17:55:48 | INFO | Executive Business Story Generated
+15-07-2026 17:55:52 | INFO | Application Started
+15-07-2026 17:55:53 | INFO | Application Started
+15-07-2026 17:55:54 | INFO | Executive Reports page opened.
+15-07-2026 17:55:54 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+15-07-2026 17:55:54 | INFO | Generated 3 Executive Recommendations
+15-07-2026 17:55:54 | INFO | Category Performance Report Generated
+15-07-2026 17:55:54 | INFO | Region Performance Report Generated
+15-07-2026 17:55:54 | INFO | Segment Performance Report Generated
+15-07-2026 17:55:54 | INFO | Top 10 Products Report Generated
+15-07-2026 17:55:54 | INFO | Executive Business Story Generated
+15-07-2026 17:55:56 | INFO | Application Started
+15-07-2026 20:51:17 | INFO | Application Started
+15-07-2026 20:51:28 | INFO | Application Started
+15-07-2026 20:51:29 | INFO | Dashboard Opened
+15-07-2026 20:51:29 | INFO | Dataset Loaded | Rows: 9993
+15-07-2026 20:51:30 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 20:51:38 | INFO | Application Started
+15-07-2026 20:51:49 | INFO | Application Started
+15-07-2026 20:51:49 | INFO | Dataset Uploaded: superstore.csv
+15-07-2026 20:51:50 | INFO | ETL Completed | Before:9995 | After:9993
+15-07-2026 20:51:50 | INFO | SQLite Database Updated Successfully
+15-07-2026 20:51:55 | INFO | Application Started
+15-07-2026 20:51:56 | INFO | Executive Reports page opened.
+15-07-2026 20:51:56 | INFO | Business Health Score Generated | Score: 75 | Status: \U0001f7e1 Good
+15-07-2026 20:51:56 | INFO | Generated 3 Executive Recommendations
+15-07-2026 20:51:56 | INFO | Category Performance Report Generated
+15-07-2026 20:51:56 | INFO | Region Performance Report Generated
+15-07-2026 20:51:56 | INFO | Segment Performance Report Generated
+15-07-2026 20:51:56 | INFO | Top 10 Products Report Generated
+15-07-2026 20:51:56 | INFO | Executive Business Story Generated
+15-07-2026 20:52:04 | INFO | Application Started
+15-07-2026 20:52:04 | INFO | Dashboard Opened
+15-07-2026 20:52:04 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 20:52:09 | INFO | Application Started
+15-07-2026 20:52:11 | INFO | Application Started
+15-07-2026 20:52:11 | INFO | Dashboard Opened
+15-07-2026 20:52:11 | INFO | Filters | Region:[] | Category:[] | Segment:[] | Customer:[] | Product:[]
+15-07-2026 20:52:17 | INFO | Application Started
+15-07-2026 20:52:21 | INFO | Application Started

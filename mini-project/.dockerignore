@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+.git/
+.gitignore
+
+logs/application.log
+
+.vscode/
+.idea/
